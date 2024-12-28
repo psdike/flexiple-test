@@ -1,12 +1,3 @@
-## Assignment link → https://simplismart.notion.site/Infrastructure-Engineer-Assignment-4d63a3d980c04b82b2d06ea857aa1e62
-
-## Submission guidelines
-1. Your output should be a GitHub repo link or a zip file.
-2. Provide a clear README with instructions, assumptions, and API details.
-3. Include unit tests and instructions to run them.
-4. Highlight any extra features added beyond the requirements.
-5. Send over your output on email to madhav@flexiple.com, marking hrishikesh@flexiple.com in cc
-
 ## Install minikube
 brew install minikube
 
